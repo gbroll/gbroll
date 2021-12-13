@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @gbroll. Former physicist (M.Sc, Ph.D), now diving into software development.
+- 👋 Hi, I’m @gbroll. 
